@@ -1,0 +1,31 @@
+2023-08-06 05:20:28.283345 - Initialized conversion of CBT578
+2023-08-06 05:20:28.441256 - Received CBT.V505.FILE578.PDS from FILE578.XMI 
+2023-08-06 05:20:28.443864 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:20:28.444852 - Found $$README.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/$$README
+2023-08-06 05:20:28.445819 - Found $INDEX.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/$INDEX
+2023-08-06 05:20:28.446801 - Found #CMDS.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/#CMDS
+2023-08-06 05:20:28.447834 - Found #CUSTOM.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/#CUSTOM
+2023-08-06 05:20:28.449051 - Found #INVOKE.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/#INVOKE
+2023-08-06 05:20:28.450034 - Found @FILE578.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/@FILE578
+2023-08-06 05:20:28.451108 - Found DEM#1.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#1
+2023-08-06 05:20:28.452091 - Found DEM#2.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#2
+2023-08-06 05:20:28.452954 - Found DEM#2A.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#2A
+2023-08-06 05:20:28.453898 - Found DEM#2B.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#2B
+2023-08-06 05:20:28.455037 - Found DEM#3.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#3
+2023-08-06 05:20:28.456011 - Found DEM#4.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#4
+2023-08-06 05:20:28.456941 - Found DEM#5.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#5
+2023-08-06 05:20:28.457895 - Found DEM#6.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/DEM#6
+2023-08-06 05:20:28.457906 - Found FANDF.bin containing application/octet-stream, moved to PDS/FANDF
+2023-08-06 05:20:28.459852 - Found PFANDF1.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/PFANDF1
+2023-08-06 05:20:28.460773 - Found PFANDF1X.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/PFANDF1X
+2023-08-06 05:20:28.461769 - Found PFANDF2.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/PFANDF2
+2023-08-06 05:20:28.462807 - Found PFANDF2E.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/PFANDF2E
+2023-08-06 05:20:28.463827 - Found PFANDF3.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/PFANDF3
+2023-08-06 05:20:28.464796 - Found UTCTBTMP.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTCTBTMP
+2023-08-06 05:20:28.465790 - Found UTCTSHAR.rexx (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTCTSHAR
+2023-08-06 05:20:28.466723 - Found UTPERR01.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTPERR01
+2023-08-06 05:20:28.467576 - Found UTPTBTMP.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTPTBTMP
+2023-08-06 05:20:28.468416 - Found UTPTSHAR.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTPTSHAR
+2023-08-06 05:20:28.469286 - Found UTPVL01.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTPVL01
+2023-08-06 05:20:28.470195 - Found UTPVL02.txt (text/plain) in CBT.V505.FILE578.PDS, moved to PDS/UTPVL02
+2023-08-06 05:20:28.470203 - Found UTTNAMES.bin containing application/octet-stream, moved to PDS/UTTNAMES
